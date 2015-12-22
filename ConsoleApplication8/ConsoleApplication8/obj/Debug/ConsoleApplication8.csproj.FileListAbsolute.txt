@@ -9,3 +9,5 @@ C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\obj\Debug\Conso
 C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
 C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
 C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\bin\Debug\ClassLibrary1.dll
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\bin\Debug\ClassLibrary1.pdb

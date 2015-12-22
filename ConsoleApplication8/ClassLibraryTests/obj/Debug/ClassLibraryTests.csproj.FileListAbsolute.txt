@@ -1,0 +1,7 @@
+C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibraryTests\bin\Debug\ClassLibraryTests.dll
+C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibraryTests\bin\Debug\ClassLibraryTests.pdb
+C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibraryTests\bin\Debug\ClassLibrary1.dll
+C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibraryTests\bin\Debug\ClassLibrary1.pdb
+C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibraryTests\obj\Debug\ClassLibraryTests.dll
+C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibraryTests\obj\Debug\ClassLibraryTests.pdb
+C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibraryTests\obj\Debug\ClassLibraryTests.csprojResolveAssemblyReference.cache

@@ -5,3 +5,5 @@ C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\bin\Debug\
 C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\obj\Debug\ConsoleApplication8Tests.csprojResolveAssemblyReference.cache
 C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\obj\Debug\ConsoleApplication8Tests.dll
 C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\obj\Debug\ConsoleApplication8Tests.pdb
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\bin\Debug\ClassLibrary1.dll
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\bin\Debug\ClassLibrary1.pdb

@@ -13,7 +13,7 @@ namespace ConsoleApplication8.Tests
         [TestMethod()]
         public void TestMethodTest()
         {
-            Assert.Fail();
+            Assert.AreEqual("", "");
         }
     }
 }

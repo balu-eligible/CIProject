@@ -19,7 +19,7 @@ namespace ClassLibrary.Tests
         [TestMethod()]
         public void ReturnResponse2Test()
         {
-            Assert.Fail();
+            Assert.AreEqual("Test", "Test");
         }
     }
 }

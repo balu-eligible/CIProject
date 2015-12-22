@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TestAddveyour</id>
+    <version>1.0</version>
+    <title>TestAddveyour</title>
+    <authors>Balu</authors>
+    <owners>Balu</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Testing</description>
+    <releaseNotes>Testing Adveyour</releaseNotes>
+  </metadata>
+</package>

@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication8
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Program prog = new Program();
+            Console.WriteLine(prog.TestMethod());
+        }
+
+        public string TestMethod()
+        {
+            return "Hey Watsup!";
         }
     }
 }

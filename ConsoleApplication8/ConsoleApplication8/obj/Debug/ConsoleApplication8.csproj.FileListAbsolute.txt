@@ -3,3 +3,8 @@ c:\users\balu\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleA
 c:\users\balu\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
 c:\users\balu\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
 c:\users\balu\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb

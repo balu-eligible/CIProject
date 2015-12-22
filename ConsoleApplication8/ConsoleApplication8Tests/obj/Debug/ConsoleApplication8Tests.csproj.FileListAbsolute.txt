@@ -1,0 +1,7 @@
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\bin\Debug\ConsoleApplication8Tests.dll
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\bin\Debug\ConsoleApplication8Tests.pdb
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\bin\Debug\ConsoleApplication8.exe
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\bin\Debug\ConsoleApplication8.pdb
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\obj\Debug\ConsoleApplication8Tests.csprojResolveAssemblyReference.cache
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\obj\Debug\ConsoleApplication8Tests.dll
+C:\MyWorkspace\CIProject\ConsoleApplication8\ConsoleApplication8Tests\obj\Debug\ConsoleApplication8Tests.pdb

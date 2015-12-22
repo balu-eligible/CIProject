@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication8", "Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication8Tests", "ConsoleApplication8Tests\ConsoleApplication8Tests.csproj", "{2DA017FD-9D68-40BC-B86D-C85BE7E62D23}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26BFED9E-0E8F-429C-A462-B9BFB29812D6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\Balu\Downloads\appveyor.yml = ..\..\..\Users\Balu\Downloads\appveyor.yml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

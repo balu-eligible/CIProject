@@ -12,5 +12,10 @@ namespace ClassLibrary
         {
             return "Hey Whatsup";
         }
+
+        public string ReturnResponse2()
+        {
+            return "Hey Whatsup yo";
+        }
     }
 }

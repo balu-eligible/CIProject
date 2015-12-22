@@ -15,5 +15,11 @@ namespace ClassLibrary.Tests
         {
             Assert.AreEqual("Test", "Test");
         }
+
+        [TestMethod()]
+        public void ReturnResponse2Test()
+        {
+            Assert.Fail();
+        }
     }
 }

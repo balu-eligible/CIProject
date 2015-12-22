@@ -2,3 +2,4 @@ C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibrary1\bin\Debug\ClassLibrar
 C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
 C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\MyWorkspace\CIProject\ConsoleApplication8\ClassLibrary1\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
